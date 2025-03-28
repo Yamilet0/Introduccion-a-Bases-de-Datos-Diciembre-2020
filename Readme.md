@@ -7,7 +7,7 @@
 
 ### Descripción
 
-El módulo de __Introducción a Bases de Datos__ forma parte del programa *Data Analysis* en __BEDU__ y tiene como 
+El curso de __Introducción a Bases de Datos__ forma parte del programa *Data Analysis* en __BEDU__ y tiene como 
 principal objetivo conocer los principales conceptos que ahondan las bases de datos y ponerlos en práctica mediante la generación de consultas a través sistemas gestores de bases de datos relacionales y no relacionales.						
 
 ### Contenido
